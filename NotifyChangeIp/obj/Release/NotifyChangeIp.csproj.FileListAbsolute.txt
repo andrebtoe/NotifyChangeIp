@@ -1,0 +1,9 @@
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\bin\Release\NotifyChangeIp.exe.config
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\bin\Release\NotifyChangeIp.exe
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\bin\Release\NotifyChangeIp.pdb
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\bin\Release\Topshelf.dll
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\bin\Release\Topshelf.xml
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.csproj.CoreCompileInputs.cache
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.exe
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.pdb
+c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.csprojResolveAssemblyReference.cache
