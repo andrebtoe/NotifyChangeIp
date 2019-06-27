@@ -18,8 +18,25 @@ namespace NotifyChangeIp
         {
             _tokenSource = new CancellationTokenSource();
             _container = DependencyInjection.Configure(_tokenSource);
+            var parametersHasValid = VaidateParameters();
 
             ConfigureScheduler();
+
+            if (!parametersHasValid)
+                Stop();
+        }
+
+        public bool VaidateParameters()
+        {
+            var erros = Settings.Validate();
+
+            using (EventLog eventLog = new EventLog("Application"))
+            {
+                eventLog.Source = Settings.NameService;
+                erros.ForEach(x => eventLog.WriteEntry(x, EventLogEntryType.Error));
+            }
+
+            return erros.Count == 0;
         }
 
         public void Stop()
@@ -40,7 +57,7 @@ namespace NotifyChangeIp
                 using (var eventLog = new EventLog("Application"))
                 {
                     eventLog.Source = Settings.NameService;
-                    eventLog.WriteEntry("Servico stop", EventLogEntryType.Information);
+                    eventLog.WriteEntry("Service stop", EventLogEntryType.Information);
                 }
             }
             catch (Exception ex)

@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using Topshelf;
+﻿using Topshelf;
 
 namespace NotifyChangeIp
 {
@@ -7,14 +6,6 @@ namespace NotifyChangeIp
     {
         static void Main(string[] args)
         {
-            //var erros = Settings.Validate();
-
-            //using (EventLog eventLog = new EventLog("Application"))
-            //{
-            //    eventLog.Source = "NotifyChangeIp";
-            //    eventLog.WriteEntry("Log message example", EventLogEntryType.Error);
-            //}
-
             HostFactory.Run(x =>
             {
                 x.Service<Scheduler>(service =>

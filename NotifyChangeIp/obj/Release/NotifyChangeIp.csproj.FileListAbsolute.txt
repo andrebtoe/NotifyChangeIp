@@ -7,3 +7,23 @@ c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyC
 c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.exe
 c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.pdb
 c:\users\micro 08\source\repos\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.csprojResolveAssemblyReference.cache
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\NotifyChangeIp.exe.config
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\NotifyChangeIp.exe
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\NotifyChangeIp.pdb
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Autofac.dll
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Autofac.Extras.Quartz.dll
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Quartz.dll
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\System.ComponentModel.Annotations.dll
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Topshelf.dll
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Autofac.pdb
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Autofac.xml
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Autofac.Extras.Quartz.pdb
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Autofac.Extras.Quartz.xml
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Quartz.pdb
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Quartz.xml
+C:\dev\NotifyChangeIp\NotifyChangeIp\bin\Release\Topshelf.xml
+C:\dev\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.csprojAssemblyReference.cache
+C:\dev\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.csproj.CoreCompileInputs.cache
+C:\dev\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.csproj.CopyComplete
+C:\dev\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.exe
+C:\dev\NotifyChangeIp\NotifyChangeIp\obj\Release\NotifyChangeIp.pdb
